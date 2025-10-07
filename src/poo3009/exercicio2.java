@@ -19,7 +19,7 @@ public class exercicio2 {
             for(int i = 0; i < j; i++){
                 System.out.printf("%.1f ", otario[i]);
             }  
-            System.out.println("SOMA = "+ soma);
+            System.out.println("\nSOMA = "+ soma);
             System.out.printf("MEDIA = "+ (soma/j));
         }
     }
